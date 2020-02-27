@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "코로나 시국에 블로그 만들기"
+title                    : "고등학교에서 문과였던 내가 대학교에서 공대생인 건에 관하여"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "마마스 한낱 파트타이머 따까리"
-description              : "단비누나 주량 소주 반잔"
+name                     : "Roon"
+description              : "Do not quit!"
 url                      : https://xktmxkem.github.io
                            # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -109,9 +109,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "마마스 피티따까리"
+  name             : "이젠 피티 따까리도 아냐.."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "단비누나 주량 소주 **반잔**"
+  bio              : ""
   location         : "Somewhere"
   email            :
   links:
