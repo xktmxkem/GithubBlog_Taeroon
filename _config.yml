@@ -20,14 +20,14 @@ title                    : "고등학교에서 문과였던 내가 대학교에�
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Roon"
-description              : "Do not quit!"
+description              : "작심삼일일지라도 매번 시도해 보는 블로그"
 url                      : https://xktmxkem.github.io
                            # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : xktmxkem/xktmxkem.github.io
                            # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : 
+logo                     : "/assets/images/profile.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "이젠 피티 따까리도 아냐.."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Somewhere"
-  email            :
+  name             : "Taeroon"
+  avatar           : "/assets/images/for_fun_taeroon.jpg"
+  bio              : "잡다함과 다재다능의 사이에 있는 취준생"
+  location         : "마인크래프트 광산 속"
+  email            : "xktmxkem@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
