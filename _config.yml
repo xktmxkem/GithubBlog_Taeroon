@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : xktmxkem/xktmxkem.github.io
                            # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : 
-logo                     : "/assets/images/profile.jpg"
+logo                     : "/assets/images/keli.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -91,7 +91,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/keli.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Taeroon"
-  avatar           : "/assets/images/o_pan_moo.jpg"
+  avatar           : "/assets/images/icon.jpg"
   bio              : "잡다함과 다재다능의 사이에 있는 취준생"
   location         : "마인크래프트 광산 속"
   email            : 
@@ -121,7 +121,7 @@ author:
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://xktmxkem.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
