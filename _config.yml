@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "고등학교에서 문과였던 내가 대학교에서 공대생인 건에 관하여"
+locale                   : "ko"
+title                    : "문과생이 서비스 기획자가 되기 위한 과정"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Roon"
@@ -113,7 +113,7 @@ author:
   avatar           : "/assets/images/icon.jpg"
   bio              : "잡다함과 다재다능의 사이에 있는 취준생"
   location         : "마인크래프트 광산 속"
-  email            : 
+  email            : xktmxkem@naver.om
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
