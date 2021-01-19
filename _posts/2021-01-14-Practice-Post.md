@@ -7,7 +7,7 @@ comments: true
 categories:
   - Blog
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [Markdown, Programming]
 
 toc: true
 toc_sticky: true
@@ -51,6 +51,6 @@ last_modified_at: 2021-01-14
   * [토스]("https://toss.im/career")
 ---
 > ### 참고용 링크
-[T-Story 서비스기획](https://todaygnimaerd.tistory.com/50)
+ * [T-Story 서비스기획](https://todaygnimaerd.tistory.com/50)
 ![App사진 넣고 Review하면 됨](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplatum.kr%2Fwp-content%2Fuploads%2F2019%2F04%2F0.jpg&imgrefurl=https%3A%2F%2Fplatum.kr%2Farchives%2F118938&tbnid=LoFDYmi1pTqhbM&vet=12ahUKEwjFi_myjJruAhWaEKYKHUeWDqYQMygCegUIARDNAQ..i&docid=zSI75k3i3f9n2M&w=448&h=454&q=%EB%B0%B0%EB%8B%AC%EC%9D%98%20%EB%AF%BC%EC%A1%B1&ved=2ahUKEwjFi_myjJruAhWaEKYKHUeWDqYQMygCegUIARDNAQ)
 ---
