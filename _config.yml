@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "문과생이 서비스 기획자가 되기 위한 과정"
+title                    : "문과공대생이 PM 되기 위한 과정"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Roon"
@@ -115,24 +115,24 @@ author:
   location         : "마인크래프트 광산 속"
   email            : xktmxkem@naver.om
   links:
-    - label: "Email"
+    - label: "xktmxkem@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:xktmxkem@naver.com
 
-    - label: "Website"
+    - label: "문과 공대생이 PM이 되기위한 과정"
       icon: "fas fa-fw fa-link"
       url: "https://xktmxkem.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+   # - label: "Twitter"
+   # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+   #- label: "Facebook"
+   #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+   #- label: "GitHub"
+   #  icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+  #   - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer

@@ -1,20 +1,19 @@
 ---
-
-title: "포스팅 연습"
-layout : posts
-excerpt: 마크다운 형식의 포스팅을 연습해보자
+title: "도전하는 APP 'Challengers' 2주 사용 REVIEW"
+excerpt: "문과 공대생의 APP 사용 실후기"
 comments: true
 
 categories:
-  - Practice
+  - Review
 tags:
-  - Markdown
-  - blog
+  - Challengers
+  - 실사용 후기
+
 
 toc: true
 toc_sticky: true
  
-date: 2021-01-14
+date: 2021-01-21
 last_modified_at: 2021-01-21
 --- 
   
